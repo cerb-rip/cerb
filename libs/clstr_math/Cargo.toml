@@ -1,0 +1,9 @@
+[package]
+name = "clstr-math"
+version = "0.4.3"
+edition = "2021"
+description = "Louvain clustering and graph utilities for clstr"
+
+[dependencies]
+
+# 70efdf2e
