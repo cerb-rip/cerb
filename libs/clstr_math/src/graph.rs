@@ -64,4 +64,4 @@ pub fn degree_centrality(adjacency: &HashMap<u64, Vec<(u64, f64)>>) -> HashMap<u
         .collect()
 }
 
-// 43ec517d
+// 9778d5d2
