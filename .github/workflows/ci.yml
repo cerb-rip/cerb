@@ -31,5 +31,7 @@ jobs:
       - name: Run tests
         working-directory: ./sdk
         run: npm test
+      - name: Clippy
+        run: cargo clippy --workspace -- -D warnings
 
-# 812b4ba2
+# 26657d5f
