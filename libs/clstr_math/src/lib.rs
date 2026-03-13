@@ -1,4 +1,3 @@
-// Louvain clustering implementation for wallet graph analysis.
 use std::collections::HashMap;
 
 pub mod graph;
@@ -129,4 +128,4 @@ pub fn modularity(graph: &Graph, assignments: &HashMap<u64, u64>) -> f64 {
     q / (2.0 * total_weight)
 }
 
-// 92cc2275
+// 2723d092
