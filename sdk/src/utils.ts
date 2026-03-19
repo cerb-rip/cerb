@@ -1,3 +1,4 @@
+// SDK utility functions for hash computation and formatting.
 import { PublicKey, Connection } from "@solana/web3.js";
 import BN from "bn.js";
 
@@ -44,4 +45,4 @@ export function chunkArray<T>(arr: T[], size: number): T[][] {
   return chunks;
 }
 
-// c45147de
+// eb160de1
