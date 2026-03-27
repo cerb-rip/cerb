@@ -11,4 +11,4 @@ pub fn risk_score_to_basis_points(score: u64) -> u64 {
     score.min(MAX_RISK_SCORE)
 }
 
-// 9bf31c7f
+// 02522a2b
