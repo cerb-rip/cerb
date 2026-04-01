@@ -24,4 +24,4 @@ All notable changes to clstr are documented here.
 - Updated risk scoring threshold defaults
 - Improved batch verification performance
 
-<!-- 0f28b5d4 -->
+<!-- f2217062 -->
